@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "name": "John",
+      "age": 30,
+      "city": "New York",
+      "liked": true
+    },
+    {
+      "name": "Peter",
+      "age": 25,
+      "city": "Los Angeles",
+      "liked": false
+    },
+    {
+      "name": "Sally",
+      "age": 20,
+      "city": "Chicago",
+      "liked": true
+    },
+    {
+      "name": "Jane",
+      "age": 35,
+      "city": "Houston",
+      "liked": false
+    },
+    {
+      "name": "Tom",
+      "age": 40,
+      "city": "Phoenix",
+      "liked": true
+    },
+    {
+      "name": "Jerry",
+      "age": 45,
+      "city": "Philadelphia",
+      "liked": false
+    },
+    {
+      "name": "Mike",
+      "age": 50,
+      "city": "San Antonio",
+      "liked": true
+    },
+    {
+      "name": "David",
+      "age": 55,
+      "city": "San Diego",
+      "liked": false
+    },
+    {
+      "name": "Steve",
+      "age": 60,
+      "city": "Dallas",
+      "liked": true
+    },
+    {
+      "name": "Mark",
+      "age": 65,
+      "city": "San Jose",
+      "liked": false
+    }
+  ]
+}
